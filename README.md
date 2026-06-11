@@ -26,6 +26,7 @@ Smart File Organizer is a Python-based automation tool that organizes files into
 - Organization summary with timestamp.
 
 ## Sample Output
+![Sample Output](output1.png)
 
 ## Future Enhancement
 - GUI Interface using Tkinter

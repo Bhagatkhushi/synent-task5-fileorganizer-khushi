@@ -27,9 +27,25 @@ Smart File Organizer is a Python-based automation tool that organizes files into
 
 ## How to Run
 
-1. Run the Python script.
-2. Enter the target folder path.
-3. Files will be automatically organized into categorized folders.
+1. Clone or download the repository.
+
+2. Open the project folder in VS Code or any Python IDE.
+
+3. Run the Python script:
+
+```bash
+python File_organizer.py
+```
+
+4. Enter the path of the folder you want to organize when prompted.
+
+5. The program will:
+   - Automatically categorize files based on their extensions.
+   - Create folders such as Images, Documents, Videos, Music, Archives, and Others.
+   - Move files into their respective folders.
+   - Display the total number of files organized along with the execution date and time.
+
+6. Open the target folder to view the organized files.
 
 ---
 
@@ -44,12 +60,15 @@ Smart File Organizer is a Python-based automation tool that organizes files into
 
 ![Sample Output](output1.png)
 
+```text
 - ✅ Khushi Manoj Bhagat.docx moved to Documents
 - ✅ photo 2.jpg moved to Images
 - ✅ resume.pdf moved to Documents
+----------------------------------------------
 - 🎉 File Organization Completed!
 - 📁 Total Files Organized: 3
 - 🕒 Organized on: 11-06-2026 15:04:57
+```
 
 ---
 

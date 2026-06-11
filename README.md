@@ -27,6 +27,13 @@ Smart File Organizer is a Python-based automation tool that organizes files into
 
 ## Sample Output
 ![Sample Output](output1.png)
+- ✅ Khushi Manoj Bhagat.docx moved to Documents
+- ✅ photo 2.jpg moved to Images
+- ✅ resume.pdf moved to Documents
+
+- 🎉 File Organization Completed!
+- 📁 Total Files Organized: 3
+- 🕒 Organized on: 11-06-2026 15:04:57
 
 ## Future Enhancement
 - GUI Interface using Tkinter
